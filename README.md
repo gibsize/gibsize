@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [gibsize.github.io](gibsize.github.io)
+- 👨‍💻 All of my projects are available at [https://gibsize.github.io](https://gibsize.github.io)
 
 - 📝 I regularly write articles on [http://dev.to](http://dev.to)
 
 - 📫 How to reach me **gilbertsize@gmail.com**
 
-- 📄 Know about my experiences [https://gibsize.github.io/index.html#](https://gibsize.github.io/index.html#)
+- 📄 Know about my experiences [https://gibsize.github.io](https://gibsize.github.io)
 
 - ⚡ Fun fact **I make the environment lively**
 
